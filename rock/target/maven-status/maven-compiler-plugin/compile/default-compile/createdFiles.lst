@@ -1,0 +1,14 @@
+format\test\FormattedHandlerSenderDemo.class
+format\test\FormattedHandlerReceiverDemo$2.class
+sendMail\JavaMail.class
+format\test\FormattedHandlerReceiverDemo$1.class
+pojo\MailVO.class
+format\test\FormattedHandlerReceiverDemo$ValueTestHandler.class
+format\test\FormattedHandlerReceiverDemo.class
+format\test\FormattedHandlerReceiverDemo$GetFunctionTestHandler.class
+rockmq\rock\DaterockNew.class
+sendMail\ServerConfig.class
+rockmq\rock\Consumer.class
+rockmq\rock\formattest.class
+rockmq\rock\App.class
+rockmq\rock\Producer.class
